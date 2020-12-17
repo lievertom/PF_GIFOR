@@ -2,10 +2,10 @@
 Problema 2:
 Dado um arquivo csv com delimitador ';' 
 e com o seguinte cabeçalho: id;nome;telefone;idade. 
-Retorne uma lista com os registro ordenados por nome.
+Retorne uma lista com os registros ordenados por nome.
 '''
 
-# Para resolução deste problema descidi utilizar orientação a objetos.
+# Para resolução deste problema decidi utilizar orientação a objetos.
 # Devido se tratar de dados uniformes, vou usar uma classe
 # para poder modelar os dados referentes às pessoas ,e assim,
 # resolver o problema de forma mais elegante.
